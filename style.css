@@ -3,9 +3,9 @@
     font-family: Arial,sans-serif;
     background-color: hsl(228, 100%, 72%);
     border-radius: 15px;
-    width: 500px;
+   max-width: 500px;
     overflow: hidden;
-    height: 630px;
+    max-height: 630px;
     
     
 }
